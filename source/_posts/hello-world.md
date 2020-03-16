@@ -1,39 +1,16 @@
 ---
-title: Hello World
+title: Sunflower Seeds
 lang: en
+date: '2020-03-15T21:10:45-04:00'
+thumbnail: /images/uploads/sunflower_seeds_weiwei_tate_2011_01.jpeg
+terms: 'Sunflower Seeds '
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Ai Weiwei's Sunflower Seeds is made up of millions of small works, each apparently identical, but actually unique. However realistic they may seem, these life-sized sunflower seed husks are in fact intricately hand-crafted in porcelain. 
 
-## Quick Start
 
-### Create a new post
 
-``` bash
-$ hexo new "My New Post"
-```
+Each seed has been individually sculpted and painted by specialists working in small-scale workshops in the Chinese city of Jingdezhen. Far from being industrially produced, they are the effort of hundreds of skilled hands. Poured into the interior of the Turbine Hall’s vast industrial space, the 100 million seeds form a seemingly infinite landscape.
 
-More info: [Writing](https://hexo.io/docs/writing.html)
 
-### Run server
 
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+Porcelain is almost synonymous with China and, to make this work, Ai Weiwei has manipulated traditional methods of crafting what has historically been one of China’s most prized exports. Sunflower Seeds invites us to look more closely at the ‘Made in China’ phenomenon and the geo-politics of cultural and economic exchange today.
